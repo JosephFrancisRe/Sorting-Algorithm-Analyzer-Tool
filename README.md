@@ -11,10 +11,11 @@
         ---------------------------------------------------------------------------------------------------
                               A comparison, swap, and runtime analyzer tool designed by:
                                        Joseph Re  (josephfrancisre@gmail.com)
+                                       
+Language: C++<br>
+Lines of Code: 684
 
-This repository contains C++ code for an analyzer tool.
-
-The custom built tool evaluates 5 major sorting algorithms based on runtime speed, comparison usage, and swap executions for dynamic input parameters set by the user.
+The custom built analyzer tool evaluates 5 major sorting algorithms based on runtime speed, comparison usage, and swap executions for dynamic input parameters set by the user.
 
 Please note that the sorting algorithms as they are implemented use vectors (not lists). Vectors story values in contiguous memory locations to make a syncronized access method for all values. Whether lists or vectors are used has a negligable difference on the results of the tool.
 
